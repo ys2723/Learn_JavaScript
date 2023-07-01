@@ -1,0 +1,17 @@
+let rate;             // Declaration of a unique variable, it does not contain any value. 
+console.log(rate);    // Output in concole would be 'undefined'
+
+let age = 20;         // Declaration of a unique variable, it contains the value '20'
+console.log(age)      // Output in 'console' would be '20'
+
+let x;                // Declared variable
+x = 54;               // Assigned value to variable
+console.log(x);       // Out put would be '54'
+
+x = x + 10;           // Value of variable changed
+console.log(x)        // New value printed
+
+/*
+    Now, lets have a look at string data type.
+    A string is a collection of characters like "noFood4u"
+*/
