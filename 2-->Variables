@@ -15,3 +15,13 @@ console.log(x)        // New value printed
     Now, lets have a look at string data type.
     A string is a collection of characters like "noFood4u"
 */
+
+console.log("--------------------------------------------------") 
+
+let name = "Bonasera";   // String value declared 
+console.log(name);       // String value printed
+
+/*
+    Now, lets have a look at boolean data type.
+    A boolean is either 'true' or 'false'.
+*/
