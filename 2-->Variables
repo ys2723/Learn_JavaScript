@@ -25,3 +25,15 @@ console.log(name);       // String value printed
     Now, lets have a look at boolean data type.
     A boolean is either 'true' or 'false'.
 */
+
+console.log("--------------------------------------------------") 
+
+let student = true;      // Boolean value declared 
+console.log(student);    // Output is 'true'
+
+
+console.log("I need to a favour from", name);    // Add text with already declared variable
+name = name + 1;                                 // String + 1 = String 1
+console.log(name);                               // Output is 'Bonasera1'
+
+console.log("My age is ",age);   
