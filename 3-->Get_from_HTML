@@ -4,3 +4,9 @@
     <p id = "greet"></p>
     <p id = "age"></p>
 */
+
+let nam = "Watergate Richard";
+let age = 54;
+
+document.getElementById("greet").innerText = "Hello " + nam;
+// Javascript would connect with the id 'greet' and change the tag's text using the above line.
