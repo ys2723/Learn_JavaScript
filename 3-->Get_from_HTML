@@ -1,0 +1,6 @@
+/* 
+    Some tag in the HTML code will have the id 'greet' and 'age'.
+
+    <p id = "greet"></p>
+    <p id = "age"></p>
+*/
