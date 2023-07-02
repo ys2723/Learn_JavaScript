@@ -10,3 +10,6 @@ let age = 54;
 
 document.getElementById("greet").innerText = "Hello " + nam;
 // Javascript would connect with the id 'greet' and change the tag's text using the above line.
+
+document.getElementById("age").innerText = "Your age is " + age;
+// Javascript would connect with the id 'age' and change the tag's text using the above line.
