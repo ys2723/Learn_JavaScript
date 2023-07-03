@@ -5,3 +5,8 @@
     3. Multiplication and Division
     4. Addition and Subtraction
 */
+
+let value = 50;
+
+value = value + 5;         // Can be done for '-', '*' and '/' too.
+console.log(value);
