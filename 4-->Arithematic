@@ -1,1 +1,7 @@
-
+/*
+    Operator precedence:
+    1. Paranthesis ()
+    2. Exponents 
+    3. Multiplication and Division
+    4. Addition and Subtraction
+*/
