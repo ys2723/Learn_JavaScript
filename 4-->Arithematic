@@ -10,3 +10,7 @@ let value = 50;
 
 value = value + 5;         // Can be done for '-', '*' and '/' too.
 console.log(value);
+
+let number = 50;
+number += 5                // Works same as 'number = number + 5'
+console.log(number);
