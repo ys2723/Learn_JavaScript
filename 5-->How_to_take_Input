@@ -5,3 +5,8 @@
     1. Window Prompt (easy)
     2. HTML textbox  (difficult)
 */
+
+// 1. Window Prompt 
+
+let answer = window.prompt("How much wealth does bernie Sanders have?")
+console.log(answer);
