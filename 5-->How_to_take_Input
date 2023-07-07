@@ -10,3 +10,5 @@
 
 let answer = window.prompt("How much wealth does bernie Sanders have?")
 console.log(answer);
+
+// 2. HTML textbox
