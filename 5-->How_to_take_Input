@@ -21,3 +21,6 @@ console.log(answer);
     <button type = "button" id = "firstButton">SUBMIT</button>
 
 */
+
+let nam;
+document.getElementById("firstButton").onclick = function (){
