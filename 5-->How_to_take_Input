@@ -24,3 +24,6 @@ console.log(answer);
 
 let nam;
 document.getElementById("firstButton").onclick = function (){
+    nam = document.getElementById("firstText").value;
+    console.log(nam);
+}
