@@ -19,7 +19,6 @@ console.log(answer);
     <label>Enter your name: </label>
     <input type = "text" id = "firstText">
     <button type = "button" id = "firstButton">SUBMIT</button>
-
 */
 
 let nam;
