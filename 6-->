@@ -4,3 +4,7 @@
     (strings, numbers, booleans)
 
 */
+
+let value;
+
+value = window.prompt("Which year is it?");
