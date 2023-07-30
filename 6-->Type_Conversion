@@ -21,3 +21,7 @@ console.log("So, next year would be ",value);
 let m;
 let n;
 let o;
+
+m = Number(234.56);
+n = String(234.56);
+o = Boolean(); 
