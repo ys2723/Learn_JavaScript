@@ -15,3 +15,9 @@ console.log(typeof value);    // Checked the type of variable 'value' is
 
 value = value + 1;            // Incremented value of value by 1 (hehe, a PUN)
 console.log("So, next year would be ",value);
+
+// -----------------------------------------------
+
+let m;
+let n;
+let o;
