@@ -25,3 +25,7 @@ let o;
 m = Number(234.56);
 n = String(234.56);
 o = Boolean();        // empty boolean equal to '0' or 'False'
+
+console.log(m, typeof m);
+console.log(n, typeof n);
+console.log(0, typeof o);
