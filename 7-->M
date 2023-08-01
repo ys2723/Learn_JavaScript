@@ -14,3 +14,6 @@ console.log("----------------------------------")
 let a = 41;
 let b = 89;
 let c = 37;
+
+console.log(Math.max(a,b,c))
+console.log(Math.min(a,b,c))
