@@ -1,1 +1,11 @@
+// Maths functions in JavaScript
+
+let x = 5.67;
+
+console.log(Math.round(x));       // Rounds to the nearest integer
+console.log(Math.floor(x));       // Gives the floor of the number 
+console.log(Math.ceil(x));        // Gives the ceiling of the number
+console.log(Math.sqrt(x));        // Gives the square root of x
+console.log(Math.pow(x, 2));      // Gives x^2
+console.log(Math.abs(x));         // 'Absolute' Gives the distance between the number and Zero
 
