@@ -1,3 +1,8 @@
 // String Functions 
 
 let a = "Saddam Hussain";
+
+console.log(a.length);              // Would print the length of a.
+console.log(a.charAt(2));           // Would print the character at index = 2.
+console.log(a.indexOf('n'));        // Would print the index of first occurence of 'n'.
+console.log(a.lastIndexOf('a'));
