@@ -9,5 +9,5 @@ console.log(a.lastIndexOf('a'));    // Would print the index of last occurence o
 
 let b = "  Spaced LOL  "
 
-b = b.trim();                        
+b = b.trim();                        // Removes any empty spaces in the string.              
 console.log(b);
