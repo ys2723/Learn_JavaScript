@@ -8,3 +8,6 @@ console.log(a.indexOf('n'));        // Would print the index of first occurence 
 console.log(a.lastIndexOf('a'));    // Would print the index of last occurence of 'a'.
 
 let b = "  Spaced LOL  "
+
+b = b.trim();                        
+console.log(b);
