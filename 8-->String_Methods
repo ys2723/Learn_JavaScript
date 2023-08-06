@@ -12,5 +12,5 @@ let b = "  Spaced LOL  "
 b = b.trim();                        // Removes any empty spaces in the string.              
 console.log(b);
 
-console.log(b.toUpperCase());       
+console.log(b.toUpperCase());       // Makes everything ipper case.
 console.log(b.toLowerCase());       
