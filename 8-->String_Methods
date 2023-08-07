@@ -14,3 +14,6 @@ console.log(b);
 
 console.log(b.toUpperCase());       // Makes everything ipper case.
 console.log(b.toLowerCase());       // Makes everything lower case.
+
+let c = "234-098-567-765"
+
