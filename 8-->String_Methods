@@ -17,3 +17,5 @@ console.log(b.toLowerCase());       // Makes everything lower case.
 
 let c = "234-098-567-765"
 
+c = c.replaceAll("-", ",");          // Replaces all '-' with ','.
+console.log(c);
