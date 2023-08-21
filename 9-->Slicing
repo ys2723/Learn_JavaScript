@@ -1,3 +1,5 @@
 // Slicing 
 
 let fullName = "Mao Zadong";
+
+console.log(fullName.slice(2));
