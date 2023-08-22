@@ -4,3 +4,5 @@ let fullName = "Mao Zadong";
 
 console.log(fullName.slice(2));               // Will print everything from index '2'.
 console.log(fullName.slice(2,8));             // Will print everything from index '2' to index '7'.
+
+let firstName
