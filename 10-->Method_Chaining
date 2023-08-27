@@ -2,3 +2,5 @@
     Mathod Chaining:
     Call one method after another in one continous line of code.
 */
+
+let nam = "ougadougou"
