@@ -4,3 +4,5 @@
 */
 
 let nam = "ougadougou"
+
+let a = nam.charAt(0)
