@@ -5,4 +5,4 @@
 
 let nam = "ougadougou"
 
-let a = nam.charAt(0).toUpperCase().trim();         // Three functions are used in one line
+let a = nam.charAt(0).toUpperCase().trim();         // Three functions are used in one line, makes the code redable.
