@@ -6,5 +6,5 @@ if (age > 18){
     console.log("Eligible");
 }
 else if(age = 18){
-    console.log(We can consider you!);
+    console.log("We can consider you!");
 }
