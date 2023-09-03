@@ -9,5 +9,5 @@ else if(age = 18){
     console.log("We can consider you!");
 }
 else{
-    console.log()
+    console.log("Not eligible")
 }
