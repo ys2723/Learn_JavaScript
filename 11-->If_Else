@@ -8,4 +8,4 @@ if (age > 18){
 else if(age = 18){
     console.log("We can consider you!");
 }
-else
+else{}
