@@ -5,4 +5,5 @@ document.getElementById("button").onclick = function(){
 else{
   document.getElementById("result").innerText = "You are not converted, oh okay!";
 }
+}
 
