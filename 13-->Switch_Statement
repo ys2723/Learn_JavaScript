@@ -1,3 +1,5 @@
 // Switch Statements
 
 let grade = "F";
+
+switch(grade)
