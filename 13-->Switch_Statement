@@ -4,4 +4,4 @@ let grade = "F";
 
 switch(grade){
   case("A"):
-    console.log
+    console.log("You ACED
