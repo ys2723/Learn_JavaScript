@@ -6,3 +6,4 @@ switch(grade){
   case("A"):
     console.log("You ACED!");
   case("B"):
+    console.log
