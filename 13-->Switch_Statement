@@ -8,3 +8,4 @@ switch(grade){
     break;
   case("B"):
     console.log("You did good");
+    break;
