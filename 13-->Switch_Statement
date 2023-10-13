@@ -12,4 +12,4 @@ switch(grade){
   case("C"):
     console.log("You didn't do good");
     break;
-  case();
+  case(");
