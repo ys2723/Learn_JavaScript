@@ -18,4 +18,4 @@ switch(grade){
   case("F"):
     console.log("You Failed");
     break;
-  de
+  default
