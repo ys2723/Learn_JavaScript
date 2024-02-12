@@ -19,4 +19,4 @@ switch(grade){
     console.log("You Failed");
     break;
   default:
-    console.log("Not a valid gr");
+    console.log("Not a valid gra");
