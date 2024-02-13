@@ -20,3 +20,4 @@ switch(grade){
     break;
   default:
     console.log("Not a valid grade");
+}
