@@ -3,6 +3,7 @@
 let grade = "F";
 
 switch(grade){
+
   case("A"):
     console.log("You ACED!");
     break;
