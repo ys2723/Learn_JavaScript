@@ -1,5 +1,5 @@
 // && and || operator ('and' and 'or' operator)
 // 
 
-let rate = 999
+let rate = 999;
  
