@@ -3,5 +3,5 @@
 
 let rate = 999;
 
-if(rate)
+if(rate > )
  
