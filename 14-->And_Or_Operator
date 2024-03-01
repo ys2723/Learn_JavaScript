@@ -6,4 +6,4 @@ let rate = 999;
 if(rate > 100 && rate <500){                                 // rate>100 and rate<500.
    console.losg("Reasonable rate, BUY!!!");
 }
-else if
+else if()
