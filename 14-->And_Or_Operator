@@ -9,3 +9,4 @@ if(rate > 100 && rate <500){                                 // rate>100 and rat
 else if(rate = 100 || rate%3 = 0){
    console.log("Nice Rate");
 }
+else
