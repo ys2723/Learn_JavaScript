@@ -22,3 +22,4 @@ switch(grade){
   default:
     console.log("Not a valid grade");
 }
+
