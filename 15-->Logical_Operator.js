@@ -1,5 +1,6 @@
 // Logical Operator
+
 /*
     !
-    NOT Loical
+    NOT Loical Operator
 */
