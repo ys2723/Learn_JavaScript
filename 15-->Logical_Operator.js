@@ -3,5 +3,5 @@
 /*
     !
     NOT Loical Operator
-    False Becomes
+    False Becomes True
 */
