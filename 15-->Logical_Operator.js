@@ -1,1 +1,1 @@
-// Logical Operat
+// Logical Operator
