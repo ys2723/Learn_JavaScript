@@ -1,4 +1,4 @@
-// Logical Operator Co
+// Logical Operator Code
 
 /*
     !
