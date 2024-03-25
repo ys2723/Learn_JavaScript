@@ -8,4 +8,4 @@
     
 */
 
-let num
+let number
