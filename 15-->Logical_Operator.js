@@ -8,4 +8,4 @@
     
 */
 
-let number = 35
+let number = 35;
