@@ -12,5 +12,5 @@ let number = 35;
 
 if(!(number > 0))
 {
-    console.log("")
+    console.log("Negative")
 }
