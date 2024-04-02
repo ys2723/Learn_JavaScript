@@ -16,5 +16,5 @@ if(!(number > 0))
 }
 else
 {
-    console.log
+    console.log(
 }    
