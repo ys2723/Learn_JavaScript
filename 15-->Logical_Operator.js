@@ -16,5 +16,5 @@ if(!(number > 0))
 }
 else
 {
-    console.log("Positive")
+    console.log("Positive N")
 }    
