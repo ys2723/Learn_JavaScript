@@ -16,5 +16,5 @@ if(!(number > 0))
 }
 else
 {
-    console.log("Po")
+    console.log("Positi")
 }    
