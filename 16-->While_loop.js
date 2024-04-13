@@ -1,1 +1,1 @@
-// While Loo
+// While Loop
