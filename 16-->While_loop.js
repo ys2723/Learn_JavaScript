@@ -1,3 +1,3 @@
 // While Loop
 
-let
+let nam
