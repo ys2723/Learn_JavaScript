@@ -2,4 +2,4 @@
 
 let nam = "";
 
-whi
+whil
