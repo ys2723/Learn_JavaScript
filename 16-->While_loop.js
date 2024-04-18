@@ -1,3 +1,4 @@
 // While Loop
 
-let nam = ""
+let nam = "";
+
