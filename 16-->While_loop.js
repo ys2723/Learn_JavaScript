@@ -3,3 +3,4 @@
 let nam = "";
 
 while(nam == ""){
+  nam
