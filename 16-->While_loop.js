@@ -2,4 +2,4 @@
 
 let nam = "";
 
-while(nam )
+while(nam =)
