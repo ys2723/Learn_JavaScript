@@ -3,4 +3,4 @@
 let nam = "";
 
 while(nam == ""){
-  nam = w
+  nam = win
