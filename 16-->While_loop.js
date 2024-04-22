@@ -3,4 +3,4 @@
 let nam = "";
 
 while(nam == ""){
-  nam = window.pr
+  nam = window.pro
