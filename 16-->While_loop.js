@@ -3,4 +3,4 @@
 let nam = "";
 
 while(nam == ""){
-  nam = window.prompt("Enter your name, p");
+  nam = window.prompt("Enter your name, pl");
