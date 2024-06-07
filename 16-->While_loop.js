@@ -4,3 +4,4 @@ let nam = "";
 
 while(nam == ""){
   nam = window.prompt("Enter your name, please");
+}
