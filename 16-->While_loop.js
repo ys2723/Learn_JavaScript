@@ -1,4 +1,4 @@
-// While Loop
+// While Loop c
 
 let nam = "";
 
