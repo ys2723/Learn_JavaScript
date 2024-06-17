@@ -1,4 +1,4 @@
-// While Loop code for l
+// While Loop code for le
 
 let nam = "";
 
