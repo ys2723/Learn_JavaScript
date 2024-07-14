@@ -3,4 +3,4 @@
 let nam = "";
 
 do{
-  nam = window.prompt("Enter your name, ple")
+  nam = window.prompt("Enter your name, plea")
