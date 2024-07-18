@@ -4,6 +4,6 @@ let nam = "";
 
 do{
   nam = window.prompt("Enter your name, please.");
-}while(nam ==
+}while(nam == "
 
 
