@@ -1,6 +1,6 @@
 // For Loop
 
-in
+int
 for(int i=0; i<n;){
 
 }
